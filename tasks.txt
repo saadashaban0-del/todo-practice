@@ -2,3 +2,4 @@ Learn Git
 Practice GitHub
 Build a project
 Learn branching
+learing fetch with merge
